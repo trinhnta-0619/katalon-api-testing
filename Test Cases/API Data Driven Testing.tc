@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>API Data Driven Testing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e185574-aa07-4fb4-b84c-8d5338743a11</testCaseGuid>
+   <variable>
+      <defaultValue>'trinh'</defaultValue>
+      <description></description>
+      <id>5568b24f-2168-441d-9dc1-5600e5556bae</id>
+      <masked>false</masked>
+      <name>full_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'qa'</defaultValue>
+      <description></description>
+      <id>181218ac-91b4-43ad-8cc8-7d2c986850ad</id>
+      <masked>false</masked>
+      <name>job</name>
+   </variable>
+</TestCaseEntity>
